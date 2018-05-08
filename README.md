@@ -2,10 +2,13 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 5-3-2018
+Last updated: 5-8-2018
 
 Project Atlas:  https://www.projectatlas.com/<br/>
 Unearth Labs: https://www.unearthlabs.com/<br/>
+Fieldlens: https://fieldlens.com/<br/>
+StructionSite: https://www.structionsite.com/<br/>
+HoloBuilder: https://www.holobuilder.com/<br/>
 
 Bluebeam: https://www.bluebeam.com/<br/>
 Aconex: https://www.aconex.com/<br/>
