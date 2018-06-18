@@ -11,6 +11,7 @@ StructionSite: https://www.structionsite.com/<br/>
 HoloBuilder: https://www.holobuilder.com/<br/>
 
 Bluebeam: https://www.bluebeam.com/<br/>
+AutoDesk (incl. Revit): https://www.autodesk.com/
 Aconex: https://www.aconex.com/<br/>
 Viewpoint: https://viewpoint.com/<br/>
 Newforma: https://www.newforma.com/<br/>
@@ -25,3 +26,4 @@ Occipital: https://occipital.com/<br/>
 
 Drone Deploy: https://www.dronedeploy.com/<br/>
 Aerobotics: https://aerobotics.co<br/>
+
