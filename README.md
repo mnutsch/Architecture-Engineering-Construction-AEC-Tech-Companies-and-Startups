@@ -2,36 +2,38 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 6-28-2018
+Last updated: 7-6-2018
 
-Project Atlas (acquired by Bluebeam):  https://www.projectatlas.com/<br/>
-Unearth Labs: https://www.unearthlabs.com/<br/>
-Fieldlens: https://fieldlens.com/<br/>
-StructionSite: https://www.structionsite.com/<br/>
-HoloBuilder: https://www.holobuilder.com/<br/>
+Project Atlas (acquired by Bluebeam): https://www.projectatlas.com/ (mapping)<br/>
+Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
 
-Bluebeam: https://www.bluebeam.com/<br/>
-AutoDesk (incl. Revit): https://www.autodesk.com/<br/>
-Aconex: https://www.aconex.com/<br/>
-Viewpoint: https://viewpoint.com/<br/>
-Newforma: https://www.newforma.com/<br/>
-Procore: https://www.procore.com/<br/>
+HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
+Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
+Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
 
-Visualive 3D: https://www.visualive3d.com/<br/>
+DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 
-Matterport: https://matterport.com/<br/>
-GeoCV: https://geocv.com/<br/>
-NCTech Imaging: https://www.nctechimaging.com/<br/>
-Inside Maps: https://www.insidemaps.com/<br/>
-Occipital: https://occipital.com/<br/>
+RealWear: https://www.realwear.com/ (AR headsets)<br/>
+DAQRI: https://daqri.com/ (AR headsets)<br/>
 
-Drone Deploy: https://www.dronedeploy.com/<br/>
-Aerobotics: https://aerobotics.co<br/>
+Bluebeam: https://www.bluebeam.com/ (document management)<br/>
+AutoDesk (incl. Revit): https://www.autodesk.com/ (document management)<br/>
 
-Trimble: http://www.trimble.com/<br/>
+Fieldlens: https://fieldlens.com/ (project management)<br/>
+StructionSite: https://www.structionsite.com/ (project management)<br/>
+Aconex: https://www.aconex.com/ (project management)<br/>
+Viewpoint: https://viewpoint.com/ (project management)<br/>
+Newforma: https://www.newforma.com/ (project management)<br/>
+Procore: https://www.procore.com/ (project management)<br/
 
-DIRTT: https://www.dirtt.net/<br/>
+Matterport: https://matterport.com/ (360 photos)<br/>
+GeoCV: https://geocv.com/ (360 photos)<br/>
+NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
+Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
 
-SmartVid: https://www.smartvid.io/<br/>
+Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
+Aerobotics: https://aerobotics.co (drone imagery)<br/>
 
-Truelook: https://www.truelook.com/<br/>
+SmartVid: https://www.smartvid.io/ (computer vision)<br/>
+
+Truelook: https://www.truelook.com/ (cameras)<br/>
