@@ -2,7 +2,10 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 7-6-2018
+Last updated: 8-2-2018
+
+Bluebeam: https://www.bluebeam.com/ (document management)<br/>
+AutoDesk (incl. Revit): https://www.autodesk.com/ (document management)<br/>
 
 Project Atlas (acquired by Bluebeam): https://www.projectatlas.com/ (mapping)<br/>
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
@@ -15,9 +18,6 @@ DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
 DAQRI: https://daqri.com/ (AR headsets)<br/>
-
-Bluebeam: https://www.bluebeam.com/ (document management)<br/>
-AutoDesk (incl. Revit): https://www.autodesk.com/ (document management)<br/>
 
 Fieldlens: https://fieldlens.com/ (project management)<br/>
 StructionSite: https://www.structionsite.com/ (project management)<br/>
@@ -35,5 +35,8 @@ Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
 
 SmartVid: https://www.smartvid.io/ (computer vision)<br/>
+Indus.ai: https://www.indus.ai/ (computer vision><br/>
 
 Truelook: https://www.truelook.com/ (cameras)<br/>
+
+
