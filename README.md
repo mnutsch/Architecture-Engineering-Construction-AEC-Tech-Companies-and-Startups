@@ -40,5 +40,5 @@ Indus.ai: https://www.indus.ai/ (computer vision><br/>
 Truelook: https://www.truelook.com/ (cameras)<br/>
 
 Parafin: http://www.parafin3d.com/ (AI)<br/>
-
+TestFit: https://testfit.io/ <br/>
 
