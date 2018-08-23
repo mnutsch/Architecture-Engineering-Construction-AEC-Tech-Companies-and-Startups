@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 8-2-2018
+Last updated: 8-23-2018
 
 Bluebeam: https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. Revit): https://www.autodesk.com/ (document management)<br/>
@@ -38,5 +38,7 @@ SmartVid: https://www.smartvid.io/ (computer vision)<br/>
 Indus.ai: https://www.indus.ai/ (computer vision><br/>
 
 Truelook: https://www.truelook.com/ (cameras)<br/>
+
+Parafin: http://www.parafin3d.com/ (AI)<br/>
 
 
