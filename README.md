@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 8-23-2018
+Last updated: 8-28-2018
 
 Bluebeam: https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. Revit): https://www.autodesk.com/ (document management)<br/>
