@@ -15,7 +15,6 @@ Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
 HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
 Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
-
 DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
