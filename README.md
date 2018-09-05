@@ -20,6 +20,7 @@ DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
 DAQRI: https://daqri.com/ (AR headsets)<br/>
+FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
 Fieldlens: https://fieldlens.com/ (project management)<br/>
 StructionSite: https://www.structionsite.com/ (project management)<br/>
