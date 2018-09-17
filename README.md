@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture.
 
-Last updated: 9-5-2018
+Last updated: 9-17-2018
 
 Bluebeam: https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. BIM 360 Docs, & Revit): https://www.autodesk.com/ (document management)<br/>
@@ -11,6 +11,7 @@ Revizto: https://revizto.com/en/ (issue tracking)<br/>
 
 Project Atlas (acquired by Bluebeam): https://www.projectatlas.com/ (mapping)<br/>
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
+GeoTerra: https://www.geoterra.us/index.php/ (mapping / drone imagery)</br>
 
 HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
