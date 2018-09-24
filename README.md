@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to construction, real estate, or architecture. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 9-19-2018
+Last updated: 9-24-2018
 
 Bluebeam: https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. BIM 360 Docs, & Revit): https://www.autodesk.com/ (document management)<br/>
@@ -65,3 +65,5 @@ Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
 Novedge: https://novedge.com/ (software reseller)<br/>
 
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
+
+WorkerSense: http://www.workersense.com/ (wearables)<br/>
