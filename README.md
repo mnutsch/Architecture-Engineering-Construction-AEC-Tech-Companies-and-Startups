@@ -69,3 +69,5 @@ Novedge: https://novedge.com/ (software reseller)<br/>
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
 WorkerSense: http://www.workersense.com/ (wearables)<br/>
+
+FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
