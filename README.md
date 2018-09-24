@@ -22,8 +22,8 @@ DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
 
-RealWear: https://www.realwear.com/ (AR headsets)<br/>
 DAQRI: https://daqri.com/ (AR headsets)<br/>
+RealWear: https://www.realwear.com/ (AR headsets)<br/>
 FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
@@ -57,18 +57,23 @@ Indus.ai: https://www.indus.ai/ (computer vision><br/>
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
 
-DeWalt (WiFi hardware)<br/>
-
 Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
 TestFit: https://testfit.io/ (Project Planning)<br/>
 
-Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
-Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
+DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
+
+WorkerSense: http://www.workersense.com/ (wearables)<br/>
+Triax: https://www.triaxtec.com/workersafety/ (wearables)<br/>
+
+FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
+
+Zlien: https://www.zlien.com/ (payments)<br/>
+
+PunchTime: http://www.punchti.me/ (time tracking)<br/>
 
 Novedge: https://novedge.com/ (software reseller)<br/>
 
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
-WorkerSense: http://www.workersense.com/ (wearables)<br/>
-
-FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
+Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
+Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
