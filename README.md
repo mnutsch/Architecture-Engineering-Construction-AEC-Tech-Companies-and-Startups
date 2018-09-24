@@ -53,6 +53,7 @@ SmartVid: https://www.smartvid.io/ (computer vision)<br/>
 Indus.ai: https://www.indus.ai/ (computer vision><br/>
 
 Truelook: https://www.truelook.com/ (cameras)<br/>
+Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
 
 DeWalt (WiFi hardware)<br/>
 
