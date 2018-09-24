@@ -26,12 +26,12 @@ RealWear: https://www.realwear.com/ (AR headsets)<br/>
 DAQRI: https://daqri.com/ (AR headsets)<br/>
 FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
+Procore: https://www.procore.com/ (project management / integration platform)<br/>
 Fieldlens: https://fieldlens.com/ (project management)<br/>
 StructionSite: https://www.structionsite.com/ (project management)<br/>
 Aconex: https://www.aconex.com/ (project management)<br/>
 Viewpoint: https://viewpoint.com/ (project management)<br/>
 Newforma: https://www.newforma.com/ (project management)<br/>
-Procore: https://www.procore.com/ (project management)<br/>
 Trimble Prolog: https://gc.trimble.com/product/trimble-prolog (project management)<br/>
 Assignar: https://www.assignar.com/ (project management)<br/>
 dRofus: https://www.drofus.no/en/ (project management)<br/>
@@ -40,6 +40,7 @@ Builderbox.io: https://builderbox.io/ (project management)<br/>
 Ineight: https://ineight.com/ (project management)<br/>
 Pype: https://pype.io/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (project management)<br/>
+ManufactOn: https://www.manufacton.com/ (project management / material tracking)<br/>
 
 Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
