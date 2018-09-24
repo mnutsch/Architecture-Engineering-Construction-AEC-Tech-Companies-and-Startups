@@ -14,6 +14,10 @@ Project Atlas (acquired by Bluebeam): https://www.projectatlas.com/ (mapping)<br
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
 GeoTerra: https://www.geoterra.us/index.php/ (mapping / drone imagery)</br>
 
+Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
+Aerobotics: https://aerobotics.co (drone imagery)<br/>
+Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
+
 HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
 Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
@@ -47,10 +51,6 @@ Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
 NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
 Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
-
-Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
-Aerobotics: https://aerobotics.co (drone imagery)<br/>
-Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
 
 SmartVid: https://www.smartvid.io/ (computer vision)<br/>
 Indus.ai: https://www.indus.ai/ (computer vision><br/>
