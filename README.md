@@ -5,7 +5,7 @@ This is a list of tech/startup companies which make products related to construc
 Last updated: 9-24-2018
 
 Bluebeam: https://www.bluebeam.com/ (document management)<br/>
-AutoDesk (incl. BIM 360 Docs, & Revit): https://www.autodesk.com/ (document management)<br/>
+AutoDesk (incl. BIM 360 Docs): https://www.autodesk.com/ (document management)<br/>
 Plangrid:https://www.plangrid.com/ (document management)<br/>
 Revizto: https://revizto.com/en/ (issue tracking)<br/>
 PlansLive: http://www.planslive.com/ (document management)<br/>
@@ -20,6 +20,7 @@ Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
 DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
+AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
 
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
 DAQRI: https://daqri.com/ (AR headsets)<br/>
