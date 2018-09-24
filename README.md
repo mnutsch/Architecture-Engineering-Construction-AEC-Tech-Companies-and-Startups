@@ -27,6 +27,7 @@ RealWear: https://www.realwear.com/ (AR headsets)<br/>
 FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
+Egnyte (construction): https://www.egnyte.com/industries/engineering-and-construction.html (project management)<br/>
 Fieldlens: https://fieldlens.com/ (project management)<br/>
 StructionSite: https://www.structionsite.com/ (project management)<br/>
 Aconex: https://www.aconex.com/ (project management)<br/>
