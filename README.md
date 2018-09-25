@@ -69,7 +69,7 @@ NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
 
 ## Computer Vision
 SmartVid: https://www.smartvid.io/ (computer vision)<br/>
-Indus.ai: https://www.indus.ai/ (computer vision><br/>
+Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
