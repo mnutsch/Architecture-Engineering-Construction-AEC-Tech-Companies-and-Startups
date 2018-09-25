@@ -1,6 +1,6 @@
 # Architecture-Engineering-Construction-AEC-Tech-Companies-and-Startups
 
-This is a list of tech/startup companies which make products related to architecture, engineering, and construction. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
+This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
 Last updated: 9-25-2018
 
