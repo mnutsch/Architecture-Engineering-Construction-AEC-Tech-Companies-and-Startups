@@ -102,6 +102,9 @@ Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<b
 Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
 Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
 
+## Venture Capital
+Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
+
 ## (unsorted)
 Voyage Control<br/>
 Building Connected<br/>
