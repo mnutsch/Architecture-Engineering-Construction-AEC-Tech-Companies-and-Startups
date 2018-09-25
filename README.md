@@ -52,6 +52,8 @@ GeoCV: https://geocv.com/ (360 photos)<br/>
 NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
 Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
 
+NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
+
 SmartVid: https://www.smartvid.io/ (computer vision)<br/>
 Indus.ai: https://www.indus.ai/ (computer vision><br/>
 
