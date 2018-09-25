@@ -101,3 +101,51 @@ Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<b
 ## Consulting
 Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
 Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
+
+## (unsorted)
+Voyage Control<br/>
+Building Connected<br/>
+True Look<br/>
+Busy Busy<br/>
+Construct Connect<br/>
+Cosential<br/>
+DocuSign<br/>
+HH^2 Cloud Services<br/>
+Leice Geosystems<br/>
+myCOI<br/>
+OpenSpace<br/>
+ProEst<br/>
+Triax<br/>
+Anterra<br/>
+Assemble<br/>
+Brayn Consulting LLC<br/>
+BuildUp<br/>
+Calence<br/>
+CCR<br/>
+Construction BI<br/>
+Core Associates<br/>
+Explorer Eclipse<br/>
+Eyrus<br/>
+Faro<br/>
+Foundation Software<br/>
+Giatec<br/>
+Hangar<br/>
+Harbor Compliance<br/>
+HingePoint<br/>
+Illumagear<br/>
+Jamf Now<br/>
+Labor Chart<br/>
+Lien Prevention LLC<br/>
+Milwaukee<br/>
+mJobTime<br/>
+Morpheus Technology Group<br/>
+One Beat<br/>
+Palmer Consulting Group<br/>
+PINSAdvantage<br/>
+pipeline Suite<br/>
+Plans4Less.com<br/>
+Raken<br/>
+RiskCast<br/>
+Runner Mobile Tech Gear<br/>
+SlatPlanner<br/>
+Travelers Haven<br/>
