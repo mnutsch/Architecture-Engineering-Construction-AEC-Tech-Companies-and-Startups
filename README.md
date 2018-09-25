@@ -12,7 +12,7 @@ PlansLive: http://www.planslive.com/ (document management)<br/>
 
 Bluebeam (Atlas): https://www.projectatlas.com/ (mapping)<br/>
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
-GeoTerra: https://www.geoterra.us/index.php/ (mapping / drone imagery)</br>
+GeoTerra: https://www.geoterra.us/index.php/ (mapping)</br>
 
 Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
