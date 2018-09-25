@@ -4,13 +4,13 @@ This is a list of tech/startup companies which make products related to construc
 
 Last updated: 9-25-2018
 
-Bluebeam: https://www.bluebeam.com/ (document management)<br/>
+Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. BIM 360 Docs): https://www.autodesk.com/ (document management)<br/>
 Plangrid:https://www.plangrid.com/ (document management)<br/>
 Revizto: https://revizto.com/en/ (issue tracking)<br/>
 PlansLive: http://www.planslive.com/ (document management)<br/>
 
-Project Atlas (acquired by Bluebeam): https://www.projectatlas.com/ (mapping)<br/>
+Bluebeam (Atlas): https://www.projectatlas.com/ (mapping)<br/>
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
 GeoTerra: https://www.geoterra.us/index.php/ (mapping / drone imagery)</br>
 
