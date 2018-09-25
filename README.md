@@ -54,6 +54,10 @@ Pype: https://pype.io/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (project management)<br/>
 ManufactOn: https://www.manufacton.com/ (project management / material tracking)<br/>
 
+## Project Planning
+Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
+TestFit: https://testfit.io/ (Project Planning)<br/>
+
 ## 360 Photos
 Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
@@ -70,10 +74,6 @@ Indus.ai: https://www.indus.ai/ (computer vision><br/>
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
-
-## Project Planning
-Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
-TestFit: https://testfit.io/ (Project Planning)<br/>
 
 ## Tool Tracking
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
