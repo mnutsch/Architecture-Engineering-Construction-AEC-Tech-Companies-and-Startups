@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 9-25-2018
+Last updated: 9-27-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -37,6 +37,10 @@ FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
 
+## Marketplace
+SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
+Building Connected: https://www.buildingconnected.com/ (marketplace / integration platform)<br/>
+
 ## Project Management
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
 Egnyte (construction): https://www.egnyte.com/industries/engineering-and-construction.html (project management)<br/>
@@ -59,11 +63,13 @@ ManufactOn: https://www.manufacton.com/ (project management / material tracking)
 Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
 TestFit: https://testfit.io/ (Project Planning)<br/>
 
-## 360 Photos
+## 360 Photos / Laser Scanning
 Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
 NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
 Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
+Leica Geosystems: https://leica-geosystems.com/en-US (laser scanning)<br/>
+Open Space: https://openspace.ai/ (360 photos)<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
@@ -75,6 +81,13 @@ Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
+
+## Bidding
+SmartBid: https://smartbid.co/ (bidding)<br/>
+Construct Connect: https://www.constructconnect.com/ (bidding)<br/>
+Stack: https://www.stackct.com/ (bidding)<br/>
+Cosential: https://www.cosential.com/ (bidding)<br/>
+ProEst: https://proest.com/ (bidding)<br/>
 
 ## Tool Tracking
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
@@ -89,8 +102,16 @@ FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
 ## Payments
 Zlien: https://www.zlien.com/ (payments)<br/>
 
-## Time Tracking
+## Insuranct Tracking
+myCOI: https://www.mycoitracking.com/ (insurance tracking)<br/>
+
+## Time Tracking / Payroll
 PunchTime: http://www.punchti.me/ (time tracking)<br/>
+Busy Busy: https://busybusy.com/ (time tracking)<br/>
+HH2: https://www.hh2.com/ (time tracking / payroll)<br/>
+
+## Logistics
+Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
 
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
@@ -98,27 +119,20 @@ Novedge: https://novedge.com/ (software reseller)<br/>
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
+## Electronic Signaturs
+DocuSign: https://www.docusign.com/ (electronic signatures)<br/>
+
 ## Consulting
 Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
 Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
+
+## Podcasts
+JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
 
 ## (unsorted)
-Voyage Control<br/>
-Building Connected<br/>
-True Look<br/>
-Busy Busy<br/>
-Construct Connect<br/>
-Cosential<br/>
-DocuSign<br/>
-HH^2 Cloud Services<br/>
-Leice Geosystems<br/>
-myCOI<br/>
-OpenSpace<br/>
-ProEst<br/>
-Triax<br/>
 Anterra<br/>
 Assemble<br/>
 Brayn Consulting LLC<br/>
