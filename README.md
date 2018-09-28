@@ -62,7 +62,6 @@ NewForma: https://www.newforma.com/ (project management)<br/>
 Builderbox.io: https://builderbox.io/ (project management)<br/>
 Ineight: https://ineight.com/ (project management)<br/>
 Pype: https://pype.io/ (project management)<br/>
-Raken: https://www.rakenapp.com/ (project management)<br/>
 ManufactOn: https://www.manufacton.com/ (project management / material tracking)<br/>
 Anterra: https://anterratech.com/ (project management)<br/>
 BuildUp: https://buildup.co/ (project management)<br/>
