@@ -65,7 +65,7 @@ Pype: https://pype.io/ (project management)<br/>
 ManufactOn: https://www.manufacton.com/ (project management / material tracking)<br/>
 Anterra: https://anterratech.com/ (project management)<br/>
 BuildUp: https://buildup.co/ (project management)<br/>
-Explorer (Explorer Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
+Explorer Software (Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (field reporting)<br/>
 
 ## Analytics
@@ -109,6 +109,7 @@ Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
 Giatec: https://www.giatecscientific.com/ (IoT sensors)<br/>
 Milwaukee: https://www.milwaukeetool.com/OneKey/Connectivity (tool tracking)<br/>
+Hitachi (ConSite): https://www.hitachicm.com/global/solution-linkage/consite/ (equipment tracking)<br/>
 
 ## Wearables
 WorkerSense: http://www.workersense.com/ (wearables)<br/>
