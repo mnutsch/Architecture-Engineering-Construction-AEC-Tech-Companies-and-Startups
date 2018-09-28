@@ -11,6 +11,10 @@ Plangrid:https://www.plangrid.com/ (document management)<br/>
 PlansLive: http://www.planslive.com/ (document management)<br/>
 Revizto: https://revizto.com/en/ (issue tracking)<br/>
 DrawBoard (Bullclip): https://www.drawboard.com/bullclip/ (issue tracking)<br/>
+Core Associates (TimberScan): https://www.core-assoc.com/products/timberscan/ (document management)<br/>
+
+## Mail-Order Reprography
+Plans4Less: https://plans4less.com/how-it-works/ (reprography)
 
 ## Mapping
 Bluebeam (Atlas): https://www.projectatlas.com/ (mapping)<br/>
@@ -43,7 +47,7 @@ AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visua
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
 Building Connected: https://www.buildingconnected.com/ (marketplace / integration platform)<br/>
 
-## Project Management
+## Project Management / Field Reporting
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
 Egnyte (construction): https://www.egnyte.com/industries/engineering-and-construction.html (project management)<br/>
 Fieldlens: https://fieldlens.com/ (project management)<br/>
@@ -61,6 +65,14 @@ Pype: https://pype.io/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (project management)<br/>
 ManufactOn: https://www.manufacton.com/ (project management / material tracking)<br/>
 Anterra: https://anterratech.com/ (project management)<br/>
+BuildUp: https://buildup.co/ (project management)<br/>
+Explorer (Explorer Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
+Raken: https://www.rakenapp.com/ (field reporting)<br/>
+
+## Analytics
+Construction BI: https://constructionbi.com/ (analytics)<br/>
+Eyrus: https://eyrus.com/ (analytics)<br/>
+RiskCast: https://www.riskcast.com/ (analytics)<br/>
 
 ## Project Planning
 Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
@@ -73,6 +85,7 @@ NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
 Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
 Leica Geosystems: https://leica-geosystems.com/en-US (laser scanning)<br/>
 Open Space: https://openspace.ai/ (360 photos)<br/>
+Faro: https://www.faro.com/ (laser scanning)<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
@@ -85,15 +98,18 @@ Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
 
-## Bidding
+## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
 Construct Connect: https://www.constructconnect.com/ (bidding)<br/>
 Stack: https://www.stackct.com/ (bidding)<br/>
 Cosential: https://www.cosential.com/ (bidding)<br/>
 ProEst: https://proest.com/ (bidding)<br/>
+Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
 
-## Tool Tracking
+## Tool Tracking / IoT / Sensors
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
+Giatec: https://www.giatecscientific.com/ (IoT sensors)<br/>
+Milwaukee: https://www.milwaukeetool.com/OneKey/Connectivity (tool tracking)<br/>
 
 ## Wearables
 WorkerSense: http://www.workersense.com/ (wearables)<br/>
@@ -101,17 +117,26 @@ Triax: https://www.triaxtec.com/workersafety/ (wearables)<br/>
 
 ## Safety
 FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
+Illumagear: https://www.illumagear.com/ (safety)<br/>
+Runnur Mobile Tech Gear: https://www.mobiletechgear.com/ (safety)<br/>
 
-## Payments
-Zlien: https://www.zlien.com/ (payments)<br/>
+## ERP / Accounting
+Foundation Software: https://www.foundationsoft.com/ (ERP / Accounting)<br/>
 
-## Insuranct Tracking
+## Payments / Lien Management
+Zlien: https://www.zlien.com/ (lien management)<br/>
+Lien Prevention: https://www.lienprevention.com/ (lien management)<br/>
+
+## Insurance Tracking
 myCOI: https://www.mycoitracking.com/ (insurance tracking)<br/>
+PINSAdvantage: https://www.pinsadvantage.com/ (insurance tracking)<br/>
 
 ## Time Tracking / Payroll
 PunchTime: http://www.punchti.me/ (time tracking)<br/>
 Busy Busy: https://busybusy.com/ (time tracking)<br/>
 HH2: https://www.hh2.com/ (time tracking / payroll)<br/>
+Labor Chart: https://www.laborchart.com/ (time tracking)<br/>
+mJobTime: https://mjobtime.com/ (time tracking)<br/>
 
 ## Logistics
 Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
@@ -128,44 +153,13 @@ DocuSign: https://www.docusign.com/ (electronic signatures)<br/>
 ## Consulting
 Hagen Business Systems: http://www.hagenbusiness.com/ (consulting)<br/>
 Orange Blade Consultants: https://orangeblade.com/ (consulting)<br/>
+Calence: http://www.calanceus.com/ (consulting)<br/>
+Harbor Compliance: https://www.harborcompliance.com/ (consulting)<br/>
+HingePoint: https://www.hingepoint.com/ (consulting)<br/>
+Palmer Consulting Group: http://www.palmercg.com/ (consulting)<br/>
 
 ## Podcasts
 JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
-
-## (unsorted)
-Anterra<br/>
-Assemble<br/>
-Brayn Consulting LLC<br/>
-BuildUp<br/>
-Calence<br/>
-CCR<br/>
-Construction BI<br/>
-Core Associates<br/>
-Explorer Eclipse<br/>
-Eyrus<br/>
-Faro<br/>
-Foundation Software<br/>
-Giatec<br/>
-Hangar<br/>
-Harbor Compliance<br/>
-HingePoint<br/>
-Illumagear<br/>
-Jamf Now<br/>
-Labor Chart<br/>
-Lien Prevention LLC<br/>
-Milwaukee<br/>
-mJobTime<br/>
-Morpheus Technology Group<br/>
-One Beat<br/>
-Palmer Consulting Group<br/>
-PINSAdvantage<br/>
-pipeline Suite<br/>
-Plans4Less.com<br/>
-Raken<br/>
-RiskCast<br/>
-Runner Mobile Tech Gear<br/>
-SlatPlanner<br/>
-Travelers Haven<br/>
