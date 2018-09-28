@@ -68,6 +68,14 @@ BuildUp: https://buildup.co/ (project management)<br/>
 Explorer Software (Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (field reporting)<br/>
 
+## Bidding / Estimating
+SmartBid: https://smartbid.co/ (bidding)<br/>
+Construct Connect: https://www.constructconnect.com/ (bidding)<br/>
+Stack: https://www.stackct.com/ (bidding)<br/>
+Cosential: https://www.cosential.com/ (bidding)<br/>
+ProEst: https://proest.com/ (bidding)<br/>
+Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
+
 ## Analytics
 Construction BI: https://constructionbi.com/ (analytics)<br/>
 Eyrus: https://eyrus.com/ (analytics)<br/>
@@ -96,14 +104,6 @@ Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integrated with PlanGrid)<br/>
-
-## Bidding / Estimating
-SmartBid: https://smartbid.co/ (bidding)<br/>
-Construct Connect: https://www.constructconnect.com/ (bidding)<br/>
-Stack: https://www.stackct.com/ (bidding)<br/>
-Cosential: https://www.cosential.com/ (bidding)<br/>
-ProEst: https://proest.com/ (bidding)<br/>
-Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
 
 ## Tool Tracking / IoT / Sensors
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
