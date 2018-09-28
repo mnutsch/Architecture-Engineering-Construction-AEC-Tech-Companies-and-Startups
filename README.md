@@ -95,7 +95,7 @@ Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
-Earthcam: https://www.earthcam.com/ (cameras - integreated with PlanGrid)<br/>
+Earthcam: https://www.earthcam.com/ (cameras - integrated with PlanGrid)<br/>
 
 ## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
