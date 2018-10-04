@@ -53,7 +53,7 @@ Procore: https://www.procore.com/ (project management / integration platform)<br
 Egnyte (construction): https://www.egnyte.com/industries/engineering-and-construction.html (project management)<br/>
 Fieldlens: https://fieldlens.com/ (project management)<br/>
 StructionSite: https://www.structionsite.com/ (project management)<br/>
-Aconex: https://www.aconex.com/ (project management)<br/>
+Oracle (Aconex): https://www.aconex.com/ (project management)<br/>
 Viewpoint: https://viewpoint.com/ (project management)<br/>
 Newforma: https://www.newforma.com/ (project management)<br/>
 Trimble Prolog: https://gc.trimble.com/product/trimble-prolog (project management)<br/>
