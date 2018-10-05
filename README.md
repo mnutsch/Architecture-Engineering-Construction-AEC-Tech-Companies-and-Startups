@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-4-2018
+Last updated: 10-5-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -165,3 +165,100 @@ JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
+
+## unresearched
+### Project Management
+Ipsum
+buildertrend
+thinkproject
+FalconBrick
+Construct
+BulldozAir
+NewForma
+Fieldly
+Leansite
+bouw7
+Fieldwire
+GenieBelt
+BuildUp
+
+### Marketplaces
+equippo.com
+machinio
+getable
+Dozr
+Kwipped
+EquipmentShare
+VeriTrend
+
+### Other Marketplaces
+BuildKar
+Builk
+BuildZoom
+Sweeten
+Virt
+Architizer
+Work Today
+
+### Inventory and Supply Chain Mgmt
+Katerra
+Hyphen Solutions
+Viloc
+SmartEquip
+
+### Design Technologies
+onTarget
+Graitec
+TSI
+Onshape
+DOTProduct
+Flux.io
+Abvent
+imerso
+
+### Monitoring and Safety
+HumanCondition
+FinalCAD
+BuildSafe
+einsite
+Capital
+SignOnSite
+Pillar
+Pavia Systems
+Ackcio
+QwikSpec
+Modustri
+
+### Security and Compliance
+BioSite
+BuildMetric
+
+### Financial Management
+Joist
+BuildPay
+
+### Robotics
+Endless Robotics
+Construction Robotics
+CBot
+Cooper Gray Robotics
+
+### AR/VR 
+Pandora
+SMIS
+MagicPlan
+Iris
+Scope
+
+### Drones
+TraceAir
+Dronomy
+Propeller
+AirWare
+BetterView
+
+### Other Collaboration
+FIBO
+Cinx
+Alice
+Pantera Global Tech
