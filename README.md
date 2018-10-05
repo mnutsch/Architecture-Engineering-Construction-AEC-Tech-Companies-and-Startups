@@ -256,6 +256,7 @@ Dronomy
 Propeller
 AirWare
 BetterView
+3DR
 
 ### Other Collaboration
 FIBO
