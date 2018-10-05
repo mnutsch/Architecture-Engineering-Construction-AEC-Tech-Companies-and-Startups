@@ -168,98 +168,98 @@ Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
 
 ## unresearched
 ### Project Management
-Ipsum
-buildertrend
-thinkproject
-FalconBrick
-Construct
-BulldozAir
-NewForma
-Fieldly
-Leansite
-bouw7
-Fieldwire
-GenieBelt
-BuildUp
+Ipsum<br/>
+buildertrend<br/>
+thinkproject<br/>
+FalconBrick<br/>
+Construct<br/>
+BulldozAir<br/>
+NewForma<br/>
+Fieldly<br/>
+Leansite<br/>
+bouw7<br/>
+Fieldwire<br/>
+GenieBelt<br/>
+BuildUp<br/>
 
 ### Marketplaces
-equippo.com
-machinio
-getable
-Dozr
-Kwipped
-EquipmentShare
-VeriTrend
+equippo.com<br/>
+machinio<br/>
+getable<br/>
+Dozr<br/>
+Kwipped<br/>
+EquipmentShare<br/>
+VeriTrend<br/>
 
 ### Other Marketplaces
-BuildKar
-Builk
-BuildZoom
-Sweeten
-Virt
-Architizer
-Work Today
+BuildKar<br/>
+Builk<br/>
+BuildZoom<br/>
+Sweeten<br/>
+Virt<br/>
+Architizer<br/>
+Work Today<br/>
 
 ### Inventory and Supply Chain Mgmt
-Katerra
-Hyphen Solutions
-Viloc
-SmartEquip
+Katerra<br/>
+Hyphen Solutions<br/>
+Viloc<br/>
+SmartEquip<br/>
 
 ### Design Technologies
-onTarget
-Graitec
-TSI
-Onshape
-DOTProduct
-Flux.io
-Abvent
-imerso
+onTarget<br/>
+Graitec<br/>
+TSI<br/>
+Onshape<br/>
+DOTProduct<br/>
+Flux.io<br/>
+Abvent<br/>
+imerso<br/>
 
 ### Monitoring and Safety
-HumanCondition
-FinalCAD
-BuildSafe
-einsite
-Capital
-SignOnSite
-Pillar
-Pavia Systems
-Ackcio
-QwikSpec
-Modustri
+HumanCondition<br/>
+FinalCAD<br/>
+BuildSafe<br/>
+einsite<br/>
+Capital<br/>
+SignOnSite<br/>
+Pillar<br/>
+Pavia Systems<br/>
+Ackcio<br/>
+QwikSpec<br/>
+Modustri<br/>
 
 ### Security and Compliance
-BioSite
-BuildMetric
+BioSite<br/>
+BuildMetric<br/>
 
 ### Financial Management
-Joist
-BuildPay
+Joist<br/>
+BuildPay<br/>
 
 ### Robotics
-Endless Robotics
-Construction Robotics
-CBot
-Cooper Gray Robotics
+Endless Robotics<br/>
+Construction Robotics<br/>
+CBot<br/>
+Cooper Gray Robotics<br/>
 
 ### AR/VR 
-Pandora
-SMIS
-MagicPlan
-Iris
-Scope
+Pandora<br/>
+SMIS<br/>
+MagicPlan<br/>
+Iris<br/>
+Scope<br/>
 
 ### Drones
-TraceAir
-Dronomy
-Propeller
-AirWare
-BetterView
-3DR
+TraceAir<br/>
+Dronomy<br/>
+Propeller<br/>
+AirWare<br/>
+BetterView<br/>
+3DR<br/>
 
 ### Other Collaboration
-FIBO
-Cinx
-Alice
-Pantera Global Tech
+FIBO<br/>
+Cinx<br/>
+Alice<br/>
+Pantera Global Tech<br/>
