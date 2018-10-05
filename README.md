@@ -23,32 +23,65 @@ GeoTerra: https://www.geoterra.us/index.php/ (mapping)</br>
 ArcGIS: https://www.arcgis.com/index.html (mapping)<br/>
 SenSat (Mapp): https://www.sensat.co.uk/ (mapping)<br/>
 
-## Drone Imagery
+## Drones / Drone Imagery
 Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
 Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
+TraceAir<br/>
+Dronomy<br/>
+Propeller<br/>
+AirWare<br/>
+BetterView<br/>
+3DR<br/>
 
-## AR
+## AR / VR
 HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
 Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
 DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 Procore (BIManywhere): http://bimanywhere.com/ (mixed reality/augmented reality)<br/>
+Pandora<br/>
+SMIS<br/>
+MagicPlan<br/>
+Iris<br/>
+Scope<br/>
 
 ## AR Headsets
 DAQRI: https://daqri.com/ (AR headsets)<br/>
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
 FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
-## 3D Design
+## Design / 3D Design
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
+onTarget<br/>
+Graitec<br/>
+TSI<br/>
+Onshape<br/>
+DOTProduct<br/>
+Flux.io<br/>
+Abvent<br/>
+imerso<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
 Building Connected: https://www.buildingconnected.com/ (marketplace / integration platform)<br/>
+equippo.com<br/>
+machinio<br/>
+getable<br/>
+Dozr<br/>
+Kwipped<br/>
+EquipmentShare<br/>
+VeriTrend<br/>
+BuildKar<br/>
+Builk<br/>
+BuildZoom<br/>
+Sweeten<br/>
+Virt<br/>
+Architizer<br/>
+Work Today<br/>
 
-## Project Management / Field Reporting
+## Project Management / Field Reporting / Task Management
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
 Egnyte (construction): https://www.egnyte.com/industries/engineering-and-construction.html (project management)<br/>
 Fieldlens: https://fieldlens.com/ (project management)<br/>
@@ -69,6 +102,19 @@ BuildUp: https://buildup.co/ (project management)<br/>
 Explorer Software (Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (field reporting)<br/>
 BIMTrack: https://bimtrack.co/ (project management)<br/>
+Ipsum<br/>
+buildertrend<br/>
+thinkproject<br/>
+FalconBrick<br/>
+Construct<br/>
+BulldozAir<br/>
+NewForma<br/>
+Fieldly<br/>
+Leansite<br/>
+bouw7<br/>
+Fieldwire<br/>
+GenieBelt<br/>
+BuildUp<br/>
 
 ## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
@@ -117,17 +163,34 @@ Hitachi (ConSite): https://www.hitachicm.com/global/solution-linkage/consite/ (e
 WorkerSense: http://www.workersense.com/ (wearables)<br/>
 Triax: https://www.triaxtec.com/workersafety/ (wearables)<br/>
 
+## Security and Compliance
+BioSite<br/>
+BuildMetric<br/>
+
 ## Safety
 FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
 Illumagear: https://www.illumagear.com/ (safety)<br/>
 Runnur Mobile Tech Gear: https://www.mobiletechgear.com/ (safety)<br/>
+HumanCondition<br/>
+FinalCAD<br/>
+BuildSafe<br/>
+einsite<br/>
+Capital<br/>
+SignOnSite<br/>
+Pillar<br/>
+Pavia Systems<br/>
+Ackcio<br/>
+QwikSpec<br/>
+Modustri<br/>
 
 ## ERP / Accounting
 Foundation Software: https://www.foundationsoft.com/ (ERP / Accounting)<br/>
+Joist<br/>
 
 ## Payments / Lien Management
 Zlien: https://www.zlien.com/ (lien management)<br/>
 Lien Prevention: https://www.lienprevention.com/ (lien management)<br/>
+BuildPay<br/>
 
 ## Insurance Tracking
 myCOI: https://www.mycoitracking.com/ (insurance tracking)<br/>
@@ -140,14 +203,30 @@ HH2: https://www.hh2.com/ (time tracking / payroll)<br/>
 Labor Chart: https://www.laborchart.com/ (time tracking)<br/>
 mJobTime: https://mjobtime.com/ (time tracking)<br/>
 
-## Logistics
+## Logistics / Inventory / Supply Chain Mgmt
 Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
+Katerra<br/>
+Hyphen Solutions<br/>
+Viloc<br/>
+SmartEquip<br/>
 
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
 
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
+
+## Robotics
+Endless Robotics<br/>
+Construction Robotics<br/>
+CBot<br/>
+Cooper Gray Robotics<br/>
+
+## Other Collaboration
+FIBO<br/>
+Cinx<br/>
+Alice<br/>
+Pantera Global Tech<br/>
 
 ## Electronic Signaturs
 DocuSign: https://www.docusign.com/ (electronic signatures)<br/>
@@ -165,101 +244,3 @@ JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
-
-## unresearched
-### Project Management
-Ipsum<br/>
-buildertrend<br/>
-thinkproject<br/>
-FalconBrick<br/>
-Construct<br/>
-BulldozAir<br/>
-NewForma<br/>
-Fieldly<br/>
-Leansite<br/>
-bouw7<br/>
-Fieldwire<br/>
-GenieBelt<br/>
-BuildUp<br/>
-
-### Marketplaces
-equippo.com<br/>
-machinio<br/>
-getable<br/>
-Dozr<br/>
-Kwipped<br/>
-EquipmentShare<br/>
-VeriTrend<br/>
-
-### Other Marketplaces
-BuildKar<br/>
-Builk<br/>
-BuildZoom<br/>
-Sweeten<br/>
-Virt<br/>
-Architizer<br/>
-Work Today<br/>
-
-### Inventory and Supply Chain Mgmt
-Katerra<br/>
-Hyphen Solutions<br/>
-Viloc<br/>
-SmartEquip<br/>
-
-### Design Technologies
-onTarget<br/>
-Graitec<br/>
-TSI<br/>
-Onshape<br/>
-DOTProduct<br/>
-Flux.io<br/>
-Abvent<br/>
-imerso<br/>
-
-### Monitoring and Safety
-HumanCondition<br/>
-FinalCAD<br/>
-BuildSafe<br/>
-einsite<br/>
-Capital<br/>
-SignOnSite<br/>
-Pillar<br/>
-Pavia Systems<br/>
-Ackcio<br/>
-QwikSpec<br/>
-Modustri<br/>
-
-### Security and Compliance
-BioSite<br/>
-BuildMetric<br/>
-
-### Financial Management
-Joist<br/>
-BuildPay<br/>
-
-### Robotics
-Endless Robotics<br/>
-Construction Robotics<br/>
-CBot<br/>
-Cooper Gray Robotics<br/>
-
-### AR/VR 
-Pandora<br/>
-SMIS<br/>
-MagicPlan<br/>
-Iris<br/>
-Scope<br/>
-
-### Drones
-TraceAir<br/>
-Dronomy<br/>
-Propeller<br/>
-AirWare<br/>
-BetterView<br/>
-3DR<br/>
-
-### Other Collaboration
-FIBO<br/>
-Cinx<br/>
-Alice<br/>
-Pantera Global Tech<br/>
