@@ -27,8 +27,8 @@ SenSat (Mapp): https://www.sensat.co.uk/ (mapping)<br/>
 Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
 Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
-TraceAir<br/>
-Dronomy<br/>
+TraceAirL: https://www.traceair.net/ (drone imagery<br/>
+SiteAware (FKA Dronomy): https://www.siteaware.com/ <br/>
 Propeller<br/>
 AirWare<br/>
 BetterView<br/>
