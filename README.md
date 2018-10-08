@@ -124,6 +124,7 @@ Stack: https://www.stackct.com/ (bidding)<br/>
 Cosential: https://www.cosential.com/ (bidding)<br/>
 ProEst: https://proest.com/ (bidding)<br/>
 Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
+InEight (spun off of Kiewit): https://ineight.com/ (estimating)<br/>
 
 ## Analytics
 Construction BI: https://constructionbi.com/ (analytics)<br/>
