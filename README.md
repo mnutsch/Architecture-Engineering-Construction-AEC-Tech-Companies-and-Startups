@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-8-2018
+Last updated: 10-9-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -187,12 +187,12 @@ Modustri: https://www.cbinsights.com/company/modustri<br/>
 
 ## ERP / Accounting
 Foundation Software: https://www.foundationsoft.com/ (ERP / Accounting)<br/>
-Joist<br/>
+Joist: https://www.joist.com/<br/>
 
 ## Payments / Lien Management
 Zlien: https://www.zlien.com/ (lien management)<br/>
 Lien Prevention: https://www.lienprevention.com/ (lien management)<br/>
-BuildPay<br/>
+BuildPay: https://gobuildpay.com/<br/>
 
 ## Insurance Tracking
 myCOI: https://www.mycoitracking.com/ (insurance tracking)<br/>
@@ -207,10 +207,10 @@ mJobTime: https://mjobtime.com/ (time tracking)<br/>
 
 ## Logistics / Inventory / Supply Chain Mgmt
 Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
-Katerra<br/>
-Hyphen Solutions<br/>
-Viloc<br/>
-SmartEquip<br/>
+Katerra: https://katerra.com/<br/>
+Hyphen Solutions: https://www.hyphensolutions.com/info/<br/>
+Viloc: https://www.viloc.eu/<br/>
+SmartEquip: http://www.smartequip.com/<br/>
 
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
@@ -219,16 +219,15 @@ Novedge: https://novedge.com/ (software reseller)<br/>
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
 ## Robotics
-Endless Robotics<br/>
-Construction Robotics<br/>
-CBot<br/>
-Cooper Gray Robotics<br/>
+Endless Robotics: https://endlessrobotics.com/<br/>
+Construction Robotics: http://www.construction-robotics.com/<br/>
+CBot (website down)<br/>
+Cooper Gray Robotics: http://www.robotloader.com/<br/>
 
 ## Other Collaboration
-FIBO<br/>
-Cinx<br/>
-Alice<br/>
-Pantera Global Tech<br/>
+FIBO: https://www.fiboapp.com/<br/>
+Cinx: http://www.cinx.com/<br/>
+Pantera Global Tech: http://www.panteratools.com/Default.aspx<br/>
 
 ## Electronic Signaturs
 DocuSign: https://www.docusign.com/ (electronic signatures)<br/>
