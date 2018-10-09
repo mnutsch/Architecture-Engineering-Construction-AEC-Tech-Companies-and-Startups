@@ -28,11 +28,11 @@ Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
 Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
 TraceAirL: https://www.traceair.net/ (drone imagery<br/>
-SiteAware (FKA Dronomy): https://www.siteaware.com/ <br/>
-Propeller<br/>
-AirWare<br/>
-BetterView<br/>
-3DR<br/>
+SiteAware (FKA Dronomy): https://www.siteaware.com/ (drone imagery)<br/>
+Propeller: https://www.propelleraero.com/ (drone imagery)<br/>
+AirWare: https://www.airware.com/en/ (drone imagery)<br/>
+BetterView: https://www.betterview.net/ (drone imagery)<br/>
+3DR: https://3dr.com/ (drone imagery)<br/>
 SiteAware: https://www.siteaware.com/ (autonomous drone imagery)<br/>
 
 ## AR / VR
@@ -41,12 +41,11 @@ Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/
 Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
 DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
 Procore (BIManywhere): http://bimanywhere.com/ (mixed reality/augmented reality)<br/>
-Pandora<br/>
-SMIS<br/>
-MagicPlan<br/>
-Iris<br/>
-Scope<br/>
-Trimble (Tekla)<br/>
+Pandora: https://www.arpandora.com/us/ (mixed reality/augmented reality)<br/>
+MagicPlan: https://www.magic-plan.com/ (mixed reality/augmented reality)<br/>
+Iris: https://irisvr.com/ (virtual reality)<br/>
+Scope: https://www.scopear.com/ (mixed reality/augmented reality)<br/>
+Trimble (Tekla): https://www.tekla.com/us (mixed reality/augmented reality)<br/>
 
 ## AR Headsets
 DAQRI: https://daqri.com/ (AR headsets)<br/>
@@ -56,14 +55,14 @@ FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 ## Design / 3D Design
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
-onTarget<br/>
-Graitec<br/>
-TSI<br/>
-Onshape<br/>
-DOTProduct<br/>
-Flux.io<br/>
-Abvent<br/>
-imerso<br/>
+SMIS: http://www.sodislab.com/services/bim/ (3D/CAD Design & Visualization)<br/>
+onTarget: http://ontargetcloud.com/<br/>
+Graitec: https://www.graitec.com/<br/>
+TSI: http://www.tsi.com/v3cv/<br/>
+Onshape: https://www.onshape.com/<br/>
+Flux.io: https://github.com/fluxio<br/>
+Abvent: http://www.abvent.com/<br/>
+Imerso: https://www.imerso.com/<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
@@ -104,19 +103,18 @@ BuildUp: https://buildup.co/ (project management)<br/>
 Explorer Software (Eclipse): https://www.explorer-software.com/eclipse-software/overview/ (project management)<br/>
 Raken: https://www.rakenapp.com/ (field reporting)<br/>
 BIMTrack: https://bimtrack.co/ (project management)<br/>
-Ipsum<br/>
-buildertrend<br/>
-thinkproject<br/>
-FalconBrick<br/>
-Construct<br/>
-BulldozAir<br/>
-NewForma<br/>
-Fieldly<br/>
-Leansite<br/>
-bouw7<br/>
-Fieldwire<br/>
-GenieBelt<br/>
-BuildUp<br/>
+Ipsum: https://www.ipsumapp.co/category/bim/<br/>
+buildertrend: https://www.buildertrend.com/default.aspx<br/>
+thinkproject: https://www.thinkproject.com/en/home/<br/>
+FalconBrick: https://www.falconbrick.com/<br/>
+BulldozAir: https://www.bulldozair.com/<br/>
+NewForma: https://www.newforma.com/<br/>
+Fieldly: http://en.fieldly.com/<br/>
+Leansite: https://www.cbinsights.com/company/leansite<br/>
+bouw7: https://www.bouw7.nl/en/<br/>
+Fieldwire: https://www.fieldwire.com/<br/>
+GenieBelt: https://geniebelt.com/<br/>
+BuildUp: https://buildup.co/<br/>
 
 ## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
@@ -144,6 +142,7 @@ Inside Maps: https://www.insidemaps.com/ (360 photos)<br/>
 Leica Geosystems: https://leica-geosystems.com/en-US (laser scanning)<br/>
 Open Space: https://openspace.ai/ (360 photos)<br/>
 Faro: https://www.faro.com/ (laser scanning)<br/>
+DOTProduct: https://www.dotproduct3d.com/<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
@@ -167,24 +166,24 @@ WorkerSense: http://www.workersense.com/ (wearables)<br/>
 Triax: https://www.triaxtec.com/workersafety/ (wearables)<br/>
 
 ## Security and Compliance
-BioSite<br/>
-BuildMetric<br/>
+BioSite: https://www.biositesystems.com/<br/>
+BuildMetric: https://buildmetric.com/en<br/>
 
 ## Safety
 FallSafety: https://www.fallsafetyapp.com/ (safety)<br/>
 Illumagear: https://www.illumagear.com/ (safety)<br/>
 Runnur Mobile Tech Gear: https://www.mobiletechgear.com/ (safety)<br/>
-HumanCondition<br/>
-FinalCAD<br/>
-BuildSafe<br/>
-einsite<br/>
-Capital<br/>
-SignOnSite<br/>
-Pillar<br/>
-Pavia Systems<br/>
-Ackcio<br/>
-QwikSpec<br/>
-Modustri<br/>
+HumanCondition: http://www.hcsafety.com/<br/>
+FinalCAD: https://www.finalcad.com/<br/>
+BuildSafe: https://buildsafe.net.au/<br/>
+einsite: http://einsite.com/<br/>
+Capital: http://www.capitalsafety.com/aunzadmin/Pages/Home.aspx<br/>
+SignOnSite: https://signonsite.com.au/<br/>
+Pillar: https://pillartechnology.com/<br/>
+Pavia Systems: https://www.paviasystems.com/<br/>
+Ackcio: https://ackcio.com/<br/>
+QwikSpec: http://qwikspec.com/<br/>
+Modustri: https://www.cbinsights.com/company/modustri<br/>
 
 ## ERP / Accounting
 Foundation Software: https://www.foundationsoft.com/ (ERP / Accounting)<br/>
