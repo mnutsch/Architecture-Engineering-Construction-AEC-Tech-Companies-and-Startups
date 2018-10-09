@@ -34,6 +34,7 @@ AirWare: https://www.airware.com/en/ (drone imagery)<br/>
 BetterView: https://www.betterview.net/ (drone imagery)<br/>
 3DR: https://3dr.com/ (drone imagery)<br/>
 SiteAware: https://www.siteaware.com/ (autonomous drone imagery)<br/>
+Identified Technologies: https://www.identifiedtech.com/<br/>
 
 ## AR / VR
 HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
@@ -221,6 +222,10 @@ Endless Robotics: https://endlessrobotics.com/<br/>
 Construction Robotics: http://www.construction-robotics.com/<br/>
 CBot (website down)<br/>
 Cooper Gray Robotics: http://www.robotloader.com/<br/>
+Robotic Roads: http://csq1.org/robotic-roads-inc/<br/>
+Asmbld: http://asmbld.com/<br/>
+Blueprint Robotics: http://www.blueprint-robotics.com/<br/>
+Branch Technology: https://www.branch.technology/<br/>
 
 ## Other Collaboration
 FIBO: https://www.fiboapp.com/<br/>
