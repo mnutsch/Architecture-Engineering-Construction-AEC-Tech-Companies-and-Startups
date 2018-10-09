@@ -67,20 +67,18 @@ Imerso: https://www.imerso.com/<br/>
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
 Building Connected: https://www.buildingconnected.com/ (marketplace / integration platform)<br/>
-equippo.com<br/>
-machinio<br/>
-getable<br/>
-Dozr<br/>
-Kwipped<br/>
-EquipmentShare<br/>
-VeriTrend<br/>
-BuildKar<br/>
-Builk<br/>
-BuildZoom<br/>
-Sweeten<br/>
-Virt<br/>
-Architizer<br/>
-Work Today<br/>
+equippo.com: http://www.equippo.com/<br/>
+machinio: https://www.machinio.com/<br/>
+getable: http://www.getable.com/<br/>
+Dozr: https://dozr.com/<br/>
+Kwipped: https://www.kwipped.com/<br/>
+EquipmentShare: https://www.equipmentshare.com/<br/>
+VeriTread: https://veritread.com/<br/>
+BuildKar: http://www.buildkar.com/<br/>
+Builk: https://www.builk.com/en/<br/>
+BuildZoom: https://www.buildzoom.com/<br/>
+Sweeten: https://sweeten.com/<br/>
+Architizer: https://architizer.com/<br/>
 
 ## Project Management / Field Reporting / Task Management
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
