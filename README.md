@@ -232,7 +232,7 @@ FIBO: https://www.fiboapp.com/<br/>
 Cinx: http://www.cinx.com/<br/>
 Pantera Global Tech: http://www.panteratools.com/Default.aspx<br/>
 
-## Electronic Signaturs
+## Electronic Signatures
 DocuSign: https://www.docusign.com/ (electronic signatures)<br/>
 
 ## Consulting
