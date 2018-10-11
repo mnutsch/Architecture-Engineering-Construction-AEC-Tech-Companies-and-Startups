@@ -248,3 +248,16 @@ JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
+Brick & Mortar Ventures: http://brickmortar.vc/ (VC Funding)<br/>
+Softbank: http://www.softbank.jp/ (VC Funding)<br/>
+FundersClub: https://fundersclub.com/ (VC Funding)<br/>
+Y Combinator: http://www.ycombinator.com/ (VC Funding)<br/>
+Andreessen Horowitz: https://a16z.com/ (VC Funding)<br/>
+500 Startups: https://500.co/ (VC Funding)<br/>
+Almi Invest: https://www.almi.se/Almi-Invest/ (VC Funding)<br/>
+Danhua Capital: http://dh.vc/home (VC Funding)<br/>
+Kleiner Perkins Caufield & Byers: https://www.kleinerperkins.com/ (VC Funding)<br/>
+Lightspeed Venture Partners: https://lsvp.com/ (VC Funding)<br/>
+O’Reilly AlphaTech Ventures: http://oatv.com/ (VC Funding)<br/>
+Right Side Capital Management: http://rightsidecapital.com/ (VC Funding)<br/>
+True Ventures: https://trueventures.com/ (VC Funding)<br/>
