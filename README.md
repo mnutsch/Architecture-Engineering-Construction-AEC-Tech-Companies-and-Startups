@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-12-2018
+Last updated: 10-16-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -115,6 +115,7 @@ Fieldwire: https://www.fieldwire.com/<br/>
 GenieBelt: https://geniebelt.com/<br/>
 BuildUp: https://buildup.co/<br/>
 GTP Services (Stratus): https://www.gtpstratus.com/<br/>
+Zutec: https://www.zutec.com/site/index.html<br/>
 
 ## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
@@ -227,6 +228,7 @@ Robotic Roads: http://csq1.org/robotic-roads-inc/<br/>
 Asmbld: http://asmbld.com/<br/>
 Blueprint Robotics: http://www.blueprint-robotics.com/<br/>
 Branch Technology: https://www.branch.technology/<br/>
+IntSite: http://www.intsite-ai.com/<br/>
 
 ## Other Collaboration
 FIBO: https://www.fiboapp.com/<br/>
