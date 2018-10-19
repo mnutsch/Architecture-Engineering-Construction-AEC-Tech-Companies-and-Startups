@@ -215,7 +215,7 @@ SmartEquip: http://www.smartequip.com/<br/>
 
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
-Ideate: https://www.ideateinc.com/<br/>
+Rand Worldwide (IMAGINiT / Ideate): https://www.imaginit.com/ / https://www.ideateinc.com/<br/>
 
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
