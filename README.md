@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-16-2018
+Last updated: 10-19-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -219,7 +219,7 @@ Novedge: https://novedge.com/ (software reseller)<br/>
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
-## Robotics
+## Robotics / 3D Printed Buildings
 Endless Robotics: https://endlessrobotics.com/<br/>
 Construction Robotics: http://www.construction-robotics.com/<br/>
 CBot (website down)<br/>
@@ -229,6 +229,7 @@ Asmbld: http://asmbld.com/<br/>
 Blueprint Robotics: http://www.blueprint-robotics.com/<br/>
 Branch Technology: https://www.branch.technology/<br/>
 IntSite: http://www.intsite-ai.com/<br/>
+Icon: https://www.iconbuild.com/<br/>
 
 ## Other Collaboration
 FIBO: https://www.fiboapp.com/<br/>
