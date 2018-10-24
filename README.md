@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-19-2018
+Last updated: 10-24-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -216,6 +216,7 @@ SmartEquip: http://www.smartequip.com/<br/>
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
 Rand Worldwide (IMAGINiT / Ideate): https://www.imaginit.com/ / https://www.ideateinc.com/<br/>
+U.S. CAD: https://uscad.com/<br/>
 
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
