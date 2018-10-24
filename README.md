@@ -12,6 +12,8 @@ PlansLive: http://www.planslive.com/ (document management)<br/>
 Revizto: https://revizto.com/en/ (issue tracking)<br/>
 DrawBoard (Bullclip): https://www.drawboard.com/bullclip/ (issue tracking)<br/>
 Core Associates (TimberScan): https://www.core-assoc.com/products/timberscan/ (document management)<br/>
+Docuware: https://start.docuware.com/<br/>
+Asite: https://www.asite.com/en-us/<br/>
 
 ## Mail-Order Reprography
 Plans4Less: https://plans4less.com/how-it-works/ (reprography)
@@ -89,7 +91,8 @@ StructionSite: https://www.structionsite.com/ (project management)<br/>
 Oracle (Aconex): https://www.aconex.com/ (project management)<br/>
 Viewpoint: https://viewpoint.com/ (project management)<br/>
 Newforma: https://www.newforma.com/ (project management)<br/>
-Trimble Prolog: https://gc.trimble.com/product/trimble-prolog (project management)<br/>
+Trimble (Prolog): https://gc.trimble.com/product/trimble-prolog (project management)<br/>
+Trimble (eBuilder): https://www.e-builder.net/<br/>
 Assignar: https://www.assignar.com/ (project management)<br/>
 dRofus: https://www.drofus.no/en/ (project management)<br/>
 Builderbox.io: https://builderbox.io/ (project management)<br/>
@@ -115,6 +118,8 @@ GenieBelt: https://geniebelt.com/<br/>
 BuildUp: https://buildup.co/<br/>
 GTP Services (Stratus): https://www.gtpstratus.com/<br/>
 Zutec: https://www.zutec.com/site/index.html<br/>
+eSub: https://esub.com/<br/>
+Bentley (ProjectWise): https://www.bentley.com/en/products/brands/projectwise<br/>
 
 ## Bidding / Estimating
 SmartBid: https://smartbid.co/ (bidding)<br/>
