@@ -7,7 +7,7 @@ Last updated: 10-24-2018
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
 AutoDesk (incl. BIM 360 Docs): https://www.autodesk.com/ (document management)<br/>
-Plangrid:https://www.plangrid.com/ (document management)<br/>
+Plangrid: https://www.plangrid.com/ (document management)<br/>
 PlansLive: http://www.planslive.com/ (document management)<br/>
 Revizto: https://revizto.com/en/ (issue tracking)<br/>
 DrawBoard (Bullclip): https://www.drawboard.com/bullclip/ (issue tracking)<br/>
