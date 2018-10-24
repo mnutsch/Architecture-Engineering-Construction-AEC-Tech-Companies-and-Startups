@@ -92,7 +92,6 @@ Newforma: https://www.newforma.com/ (project management)<br/>
 Trimble Prolog: https://gc.trimble.com/product/trimble-prolog (project management)<br/>
 Assignar: https://www.assignar.com/ (project management)<br/>
 dRofus: https://www.drofus.no/en/ (project management)<br/>
-NewForma: https://www.newforma.com/ (project management)<br/>
 Builderbox.io: https://builderbox.io/ (project management)<br/>
 Ineight: https://ineight.com/ (project management)<br/>
 Pype: https://pype.io/ (project management)<br/>
