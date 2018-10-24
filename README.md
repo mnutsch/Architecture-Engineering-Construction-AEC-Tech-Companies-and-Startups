@@ -14,7 +14,6 @@ DrawBoard (Bullclip): https://www.drawboard.com/bullclip/ (issue tracking)<br/>
 Core Associates (TimberScan): https://www.core-assoc.com/products/timberscan/ (document management)<br/>
 Docuware: https://start.docuware.com/<br/>
 Asite: https://www.asite.com/en-us/<br/>
-Dalux: https://www.dalux.com/<br/>
 
 ## Mail-Order Reprography
 Plans4Less: https://plans4less.com/how-it-works/ (reprography)
@@ -50,6 +49,7 @@ MagicPlan: https://www.magic-plan.com/ (mixed reality/augmented reality)<br/>
 Iris: https://irisvr.com/ (virtual reality)<br/>
 Scope: https://www.scopear.com/ (mixed reality/augmented reality)<br/>
 Trimble (Tekla): https://www.tekla.com/us (mixed reality/augmented reality)<br/>
+Dalux: https://www.dalux.com/<br/>
 
 ## AR Headsets
 DAQRI: https://daqri.com/ (AR headsets)<br/>
