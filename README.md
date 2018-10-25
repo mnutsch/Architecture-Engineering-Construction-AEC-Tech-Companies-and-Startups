@@ -238,6 +238,8 @@ Blueprint Robotics: http://www.blueprint-robotics.com/<br/>
 Branch Technology: https://www.branch.technology/<br/>
 IntSite: http://www.intsite-ai.com/<br/>
 Icon: https://www.iconbuild.com/<br/>
+Kewazo: https://www.kewazo.com/<br/>
+Genesis Dimensions: https://www.genesisdimensions.com/<br/>
 
 ## Other Collaboration
 FIBO: https://www.fiboapp.com/<br/>
