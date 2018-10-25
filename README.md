@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-24-2018
+Last updated: 10-25-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -67,6 +67,7 @@ Onshape: https://www.onshape.com/<br/>
 Flux.io: https://github.com/fluxio<br/>
 Abvent: http://www.abvent.com/<br/>
 Imerso: https://www.imerso.com/<br/>
+Prescient: https://www.prescientco.com/<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
