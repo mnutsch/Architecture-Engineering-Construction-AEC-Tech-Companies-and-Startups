@@ -67,7 +67,6 @@ Onshape: https://www.onshape.com/<br/>
 Flux.io: https://github.com/fluxio<br/>
 Abvent: http://www.abvent.com/<br/>
 Imerso: https://www.imerso.com/<br/>
-Prescient: https://www.prescientco.com/<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
@@ -228,6 +227,7 @@ U.S. CAD: https://uscad.com/<br/>
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
 ## Robotics / 3D Printed Buildings
+Prescient: https://www.prescientco.com/<br/>
 Endless Robotics: https://endlessrobotics.com/<br/>
 Construction Robotics: http://www.construction-robotics.com/<br/>
 CBot (website down)<br/>
