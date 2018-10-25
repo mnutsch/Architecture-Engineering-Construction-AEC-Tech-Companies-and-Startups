@@ -22,7 +22,7 @@ Plans4Less: https://plans4less.com/how-it-works/ (reprography)
 Bluebeam (Atlas): https://www.projectatlas.com/ (mapping)<br/>
 Unearth Labs: https://www.unearthlabs.com/ (mapping)<br/>
 GeoTerra: https://www.geoterra.us/index.php/ (mapping)</br>
-ArcGIS: https://www.arcgis.com/index.html (mapping)<br/>
+ESRI (ArcGIS): https://www.arcgis.com/index.html (mapping)<br/>
 SenSat (Mapp): https://www.sensat.co.uk/ (mapping)<br/>
 
 ## Drones / Drone Imagery
