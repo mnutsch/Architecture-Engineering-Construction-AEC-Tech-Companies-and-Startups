@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-25-2018
+Last updated: 10-29-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -149,6 +149,7 @@ Leica Geosystems: https://leica-geosystems.com/en-US (laser scanning)<br/>
 Open Space: https://openspace.ai/ (360 photos)<br/>
 Faro: https://www.faro.com/ (laser scanning)<br/>
 DOTProduct: https://www.dotproduct3d.com/<br/>
+Avvir: http://avvir.io/<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
