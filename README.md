@@ -258,7 +258,8 @@ Harbor Compliance: https://www.harborcompliance.com/ (consulting)<br/>
 HingePoint: https://www.hingepoint.com/ (consulting)<br/>
 Palmer Consulting Group: http://www.palmercg.com/ (consulting)<br/>
 
-## Podcasts
+## Podcasts / Video Blogs
+Bluebeam (Struxur): https://www.strxur.com/technology/<br/>
 JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 
 ## Venture Capital
