@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-29-2018
+Last updated: 10-30-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -58,7 +58,7 @@ FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
 ## Design / 3D Design
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
-AutoDesk (Revit & Assemble): https://assemblesystems.com/ (3D/CAD Design & Visualization)<br/>
+AutoDesk (Revit, Assemble, iConstruct): https://assemblesystems.com/ https://iconstruct.com/ (3D/CAD Design & Visualization)<br/>
 SMIS: http://www.sodislab.com/services/bim/ (3D/CAD Design & Visualization)<br/>
 onTarget: http://ontargetcloud.com/<br/>
 Graitec: https://www.graitec.com/<br/>
@@ -67,6 +67,9 @@ Onshape: https://www.onshape.com/<br/>
 Flux.io: https://github.com/fluxio<br/>
 Abvent: http://www.abvent.com/<br/>
 Imerso: https://www.imerso.com/<br/>
+Solibri: https://www.solibri.com/<br/>
+Symetri: https://www.symetri.com/<br/>
+BIMCollab: https://www.bimcollab.com/en/default<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
