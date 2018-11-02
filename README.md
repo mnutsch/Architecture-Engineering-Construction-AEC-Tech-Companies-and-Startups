@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 10-31-2018
+Last updated: 11-2-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -87,6 +87,7 @@ Builk: https://www.builk.com/en/<br/>
 BuildZoom: https://www.buildzoom.com/<br/>
 Sweeten: https://sweeten.com/<br/>
 Architizer: https://architizer.com/<br/>
+Iron Planet: https://www.ironplanet.com/<br/>
 
 ## Project Management / Field Reporting / Task Management
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
@@ -154,6 +155,7 @@ Open Space: https://openspace.ai/ (360 photos)<br/>
 Faro: https://www.faro.com/ (laser scanning)<br/>
 DOTProduct: https://www.dotproduct3d.com/<br/>
 Avvir: http://avvir.io/<br/>
+GeoSLAM: https://geoslam.com/<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
