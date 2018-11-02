@@ -285,3 +285,5 @@ O’Reilly AlphaTech Ventures: http://oatv.com/ (VC Funding)<br/>
 Right Side Capital Management: http://rightsidecapital.com/ (VC Funding)<br/>
 True Ventures: https://trueventures.com/ (VC Funding)<br/>
 Concrete VC: https://www.concretevc.com/<br/>
+Borealis Ventures: http://www.borealisventures.com/<br/>
+Caterpillar Ventures: https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html
