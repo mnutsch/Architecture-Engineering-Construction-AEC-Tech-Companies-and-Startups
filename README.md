@@ -57,7 +57,7 @@ DAQRI: https://daqri.com/ (AR headsets)<br/>
 RealWear: https://www.realwear.com/ (AR headsets)<br/>
 FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
-## Design / 3D Design
+## Design / 3D Design / BIM Deviation Detection
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Revit, Assemble, iConstruct): https://assemblesystems.com/ https://iconstruct.com/ (3D/CAD Design & Visualization)<br/>
 SMIS: http://www.sodislab.com/services/bim/ (3D/CAD Design & Visualization)<br/>
