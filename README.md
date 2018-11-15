@@ -70,6 +70,7 @@ Imerso: https://www.imerso.com/<br/>
 Solibri: https://www.solibri.com/<br/>
 Symetri: https://www.symetri.com/<br/>
 BIMCollab: https://www.bimcollab.com/en/default<br/>
+ClearEdge3d: https://www.clearedge3d.com/<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
