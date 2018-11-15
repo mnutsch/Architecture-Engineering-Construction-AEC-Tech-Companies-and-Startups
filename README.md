@@ -40,7 +40,6 @@ SiteAware: https://www.siteaware.com/ (autonomous drone imagery)<br/>
 Identified Technologies: https://www.identifiedtech.com/<br/>
 
 ## AR / VR
-HoloBuilder: https://www.holobuilder.com/ (mixed reality/augmented reality)<br/>
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
 Occipital: https://occipital.com/ (mixed reality/augmented reality)<br/>
 DIRTT: https://www.dirtt.net/ (mixed reality/augmented reality)<br/>
@@ -147,6 +146,7 @@ Parafin: http://www.parafin3d.com/ (AI) (Project Planning)<br/>
 TestFit: https://testfit.io/ (Project Planning)<br/>
 
 ## 360 Photos / Laser Scanning
+HoloBuilder: https://www.holobuilder.com/<br/>
 Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
 NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
