@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 11-14-2018
+Last updated: 11-15-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -88,6 +88,7 @@ BuildZoom: https://www.buildzoom.com/<br/>
 Sweeten: https://sweeten.com/<br/>
 Architizer: https://architizer.com/<br/>
 Iron Planet: https://www.ironplanet.com/<br/>
+Build.com: https://www.build.com/<br/>
 
 ## Project Management / Field Reporting / Task Management
 Procore: https://www.procore.com/ (project management / integration platform)<br/>
@@ -264,6 +265,7 @@ Calence: http://www.calanceus.com/ (consulting)<br/>
 Harbor Compliance: https://www.harborcompliance.com/ (consulting)<br/>
 HingePoint: https://www.hingepoint.com/ (consulting)<br/>
 Palmer Consulting Group: http://www.palmercg.com/ (consulting)<br/>
+Proving Ground: https://provingground.io/<br/>
 
 ## Podcasts / Video Blogs / Magazines
 Bluebeam (Struxur): https://www.strxur.com/technology/<br/>
