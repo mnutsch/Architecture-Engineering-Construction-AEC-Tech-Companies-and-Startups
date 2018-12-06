@@ -238,7 +238,7 @@ U.S. CAD: https://uscad.com/<br/>
 ## Monitors and Touchscreens
 Volanti Displays: https://www.volantidisplays.com/ (monitors and touchscreens)<br/>
 
-## Robotics / 3D Printed Buildings
+## Robotics / 3D Printed Buildings / 3D Printed Models
 Prescient: https://www.prescientco.com/<br/>
 Endless Robotics: https://endlessrobotics.com/<br/>
 Construction Robotics: http://www.construction-robotics.com/<br/>
@@ -252,6 +252,7 @@ IntSite: http://www.intsite-ai.com/<br/>
 Icon: https://www.iconbuild.com/<br/>
 Kewazo: https://www.kewazo.com/<br/>
 Genesis Dimensions: https://www.genesisdimensions.com/<br/>
+ZVerse: https://zverse.com/<br/>
 
 ## Other Collaboration
 FIBO: https://www.fiboapp.com/<br/>
