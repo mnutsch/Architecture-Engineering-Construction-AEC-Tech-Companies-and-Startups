@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 11-15-2018
+Last updated: 12-6-2018
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -169,6 +169,7 @@ Indus.ai: https://www.indus.ai/ (computer vision)<br/>
 ## Cameras
 Truelook: https://www.truelook.com/ (cameras)<br/>
 Earthcam: https://www.earthcam.com/ (cameras - integrated with PlanGrid)<br/>
+OxBlue: https://www.oxblue.com/platform/<br/>
 
 ## Tool Tracking / IoT / Sensors
 DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (tool tracking)<br/>
