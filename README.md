@@ -269,6 +269,7 @@ Harbor Compliance: https://www.harborcompliance.com/ (consulting)<br/>
 HingePoint: https://www.hingepoint.com/ (consulting)<br/>
 Palmer Consulting Group: http://www.palmercg.com/ (consulting)<br/>
 Proving Ground: https://provingground.io/<br/>
+SBN Consultants: http://sbnconsultants.com/<br/>
 
 ## Podcasts / Video Blogs / Magazines
 Bluebeam (Struxur): https://www.strxur.com/technology/<br/>
