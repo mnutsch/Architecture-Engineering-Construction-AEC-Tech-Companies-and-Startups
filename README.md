@@ -71,6 +71,7 @@ Solibri: https://www.solibri.com/<br/>
 Symetri: https://www.symetri.com/<br/>
 BIMCollab: https://www.bimcollab.com/en/default<br/>
 Topcon (ClearEdge3d): https://www.clearedge3d.com/<br/>
+Archilogic: https://archilogic.com/<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
