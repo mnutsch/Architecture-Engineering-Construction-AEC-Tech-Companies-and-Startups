@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 12-13-2018
+Last updated: 1-2-2019
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -178,8 +178,10 @@ Milwaukee: https://www.milwaukeetool.com/OneKey/Connectivity (tool tracking)<br/
 Hitachi (ConSite): https://www.hitachicm.com/global/solution-linkage/consite/ (equipment tracking)<br/>
 
 ## Wearables
-WorkerSense: http://www.workersense.com/ (wearables)<br/>
-Triax: https://www.triaxtec.com/workersafety/ (wearables)<br/>
+WorkerSense: http://www.workersense.com/<br/>
+Triax: https://www.triaxtec.com/workersafety/<br/>
+Suitx: https://www.suitx.com/ <br/>
+Ekso Bionics: https://eksobionics.com/eksoworks/<br/>
 
 ## Security and Compliance
 BioSite: https://www.biositesystems.com/<br/>
