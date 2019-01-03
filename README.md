@@ -228,6 +228,12 @@ Busy Busy: https://busybusy.com/ (time tracking)<br/>
 HH2: https://www.hh2.com/ (time tracking / payroll)<br/>
 Labor Chart: https://www.laborchart.com/ (time tracking)<br/>
 mJobTime: https://mjobtime.com/ (time tracking)<br/>
+HCSS: https://www.hcss.com/<br/>
+Viewpoint (Keystyle): http://keystyledata.com/<br/>
+AboutTime: https://www.abouttimetech.com/<br/>
+ExakTime: https://www.exaktime.com/<br/>
+BusyBusy: https://busybusy.com/<br/>
+Foundation (Mobile Timecard): https://www.foundationsoft.com/mobile-timecard-app/<br>
 
 ## Logistics / Inventory / Supply Chain Mgmt
 Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
