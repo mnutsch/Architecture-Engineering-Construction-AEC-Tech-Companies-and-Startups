@@ -60,7 +60,7 @@ FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 
 ## Design / 3D Design / BIM Deviation Detection
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
-AutoDesk (Revit, Assemble, iConstruct): https://assemblesystems.com/ https://iconstruct.com/ (3D/CAD Design & Visualization)<br/>
+AutoDesk (Navisworks, Revit, Assemble, iConstruct): https://assemblesystems.com/ https://iconstruct.com/ (3D/CAD Design & Visualization)<br/>
 SMIS: http://www.sodislab.com/services/bim/ (3D/CAD Design & Visualization)<br/>
 onTarget: http://ontargetcloud.com/<br/>
 Graitec: https://www.graitec.com/<br/>
@@ -74,6 +74,9 @@ Symetri: https://www.symetri.com/<br/>
 BIMCollab: https://www.bimcollab.com/en/default<br/>
 Topcon (ClearEdge3d): https://www.clearedge3d.com/<br/>
 Archilogic: https://archilogic.com/<br/>
+SketchViewer: https://sketchviewer.com/<br/>
+Graphisoft (BIMx): https://www.graphisoft.com/bimx/<br/>
+Turboviewer: https://www.turbocad.com/content/turboviewer<br/>
 
 ## Marketplace
 SmartInsight: https://smartinsight.co/ (marketplace / integration platform)<br/>
