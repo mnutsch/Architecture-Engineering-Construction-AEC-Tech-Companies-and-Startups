@@ -31,8 +31,8 @@ GeoTerra: https://www.geoterra.us/index.php/ (mapping)</br>
 ## Drones / Drone Imagery
 Drone Deploy: https://www.dronedeploy.com/ (drone imagery)<br/>
 Aerobotics: https://aerobotics.co (drone imagery)<br/>
-Sky Catch: https://www.skycatch.com/ (drone imagery)<br/>
-TraceAirL: https://www.traceair.net/ (drone imagery<br/>
+Skycatch: https://www.skycatch.com/ (drone imagery)<br/>
+TraceAir: https://www.traceair.net/ (drone imagery<br/>
 SiteAware (FKA Dronomy): https://www.siteaware.com/ (drone imagery)<br/>
 Propeller: https://www.propelleraero.com/ (drone imagery)<br/>
 AirWare: https://www.airware.com/en/ (drone imagery)<br/>
@@ -40,6 +40,12 @@ BetterView: https://www.betterview.net/ (drone imagery)<br/>
 3DR: https://3dr.com/ (drone imagery)<br/>
 SiteAware: https://www.siteaware.com/ (autonomous drone imagery)<br/>
 Identified Technologies: https://www.identifiedtech.com/<br/>
+DJI Go<br/>
+Pix4D<br/>
+Commander<br/>
+Maps Made Easy<br/>
+Hover<br/>
+Litchi<br/>
 
 ## AR / VR
 Visualive 3D: https://www.visualive3d.com/ (mixed reality/augmented reality)<br/>
