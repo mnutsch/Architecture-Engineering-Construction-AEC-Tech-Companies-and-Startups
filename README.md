@@ -163,6 +163,8 @@ GeoSLAM: https://geoslam.com/<br/>
 
 ## 2D Photos
 NoteVault: https://www.notevault.com/ (2D photos / voice recognition)<br/>
+MultiCam: https://www.multivista.com/<br/>
+CompanyCam: https://companycam.com/<br/>
 
 ## Computer Vision
 SmartVid: https://www.smartvid.io/ (computer vision)<br/>
