@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 1-2-2019
+Last updated: 1-3-2019
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -276,6 +276,7 @@ Proving Ground: https://provingground.io/<br/>
 SBN Consultants: http://sbnconsultants.com/<br/>
 
 ## Podcasts / Video Blogs / Magazines
+The B1M: https://www.theb1m.com/
 Bluebeam (Struxur): https://www.strxur.com/technology/<br/>
 JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 BIMIreland: http://www.bimireland.ie/<br/>
