@@ -67,6 +67,7 @@ FieldBit: https://www.fieldbit.net/ (AR Headsets)<br/>
 ## Design / 3D Design / BIM Deviation Detection
 VectorWorks: https://www.vectorworks.net/ (3D/CAD Design & Visualization)<br/>
 AutoDesk (Navisworks, Revit, Assemble, iConstruct): https://assemblesystems.com/ https://iconstruct.com/ (3D/CAD Design & Visualization)<br/>
+Trimble (Sketchup): https://www.sketchup.com/ (partnership with HCSS)<br/>
 SMIS: http://www.sodislab.com/services/bim/ (3D/CAD Design & Visualization)<br/>
 onTarget: http://ontargetcloud.com/<br/>
 Graitec: https://www.graitec.com/<br/>
@@ -251,7 +252,7 @@ Busy Busy: https://busybusy.com/ (time tracking)<br/>
 HH2: https://www.hh2.com/ (time tracking / payroll)<br/>
 Labor Chart: https://www.laborchart.com/ (time tracking)<br/>
 mJobTime: https://mjobtime.com/ (time tracking)<br/>
-HCSS: https://www.hcss.com/<br/>
+HCSS: https://www.hcss.com/ (partnership with Trimble)<br/>
 Viewpoint (Keystyle): http://keystyledata.com/<br/>
 AboutTime: https://www.abouttimetech.com/<br/>
 ExakTime: https://www.exaktime.com/<br/>
