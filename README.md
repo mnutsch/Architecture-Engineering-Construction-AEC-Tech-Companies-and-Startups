@@ -185,6 +185,15 @@ DeWalt (Tool Connect): https://www.dewalt.com/jobsite-solutions/tool-connect (to
 Giatec: https://www.giatecscientific.com/ (IoT sensors)<br/>
 Milwaukee: https://www.milwaukeetool.com/OneKey/Connectivity (tool tracking)<br/>
 Hitachi (ConSite): https://www.hitachicm.com/global/solution-linkage/consite/ (equipment tracking)<br/>
+ToolWatch<br/>
+Hilti ON!Track<br/>
+ONE-KEY<br/>
+ShareMyToolbox<br/>
+gigatrak<br/>
+ToolHound<br/>
+Plexxis<br/>
+EZOfficeInventory<br/>
+Trimble Alltrack<br/>
 
 ## Wearables
 WorkerSense: http://www.workersense.com/<br/>
