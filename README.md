@@ -130,6 +130,7 @@ eSub: https://esub.com/<br/>
 Bentley (ProjectWise): https://www.bentley.com/en/products/brands/projectwise<br/>
 
 ## Bidding / Estimating
+On Center (On-Screen Takeoff): https://www.oncenter.com/products/on-screen-takeoff<br/>
 SmartBid: https://smartbid.co/ (bidding)<br/>
 Construct Connect: https://www.constructconnect.com/ (bidding)<br/>
 Stack: https://www.stackct.com/ (bidding)<br/>
