@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 1-3-2019
+Last updated: 1-7-2019
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -316,6 +316,7 @@ BIMIreland: http://www.bimireland.ie/<br/>
 
 ## Venture Capital
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
+Cemex Ventures: https://www.cemexventures.com/<br/>
 Brick & Mortar Ventures: http://brickmortar.vc/ (VC Funding)<br/>
 Softbank: http://www.softbank.jp/ (VC Funding)<br/>
 FundersClub: https://fundersclub.com/ (VC Funding)<br/>
