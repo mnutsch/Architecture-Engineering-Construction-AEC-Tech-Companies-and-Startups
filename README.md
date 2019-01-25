@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to architecture, engineering, and construction (AEC). If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last updated: 1-17-2019
+Last updated: 1-25-2019
 
 ## Document Management
 Bluebeam (Revu, Drawings, Studio): https://www.bluebeam.com/ (document management)<br/>
@@ -151,6 +151,7 @@ Cosential: https://www.cosential.com/ (bidding)<br/>
 ProEst: https://proest.com/ (bidding)<br/>
 Pipeline Suite: https://pipelinesuite.com/ (bidding)<br/>
 InEight (spun off of Kiewit): https://ineight.com/ (estimating)<br/>
+Beck Technology (DESTINI): https://www.beck-technology.com/<br/>
 
 ## Analytics
 Construction BI: https://constructionbi.com/ (analytics)<br/>
