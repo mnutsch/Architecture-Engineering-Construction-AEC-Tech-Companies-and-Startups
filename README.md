@@ -312,7 +312,7 @@ Proving Ground: https://provingground.io/<br/>
 SBN Consultants: http://sbnconsultants.com/<br/>
 
 ## Podcasts / Video Blogs / Magazines
-The B1M: https://www.theb1m.com/
+The B1M: https://www.theb1m.com/<br/>
 Bluebeam (Struxur): https://www.strxur.com/technology/<br/>
 JBKnowledge (The ConTech Crew): https://jbknowledge.com/ (podcast)</br>
 BIMIreland: http://www.bimireland.ie/<br/>
