@@ -241,7 +241,7 @@ Joist: https://www.joist.com/<br/>
 Service Titan: https://lp.servicetitan.com/<br/>
 
 ## Payments / Lien Management
-Zlien: https://www.zlien.com/ (lien management)<br/>
+Levelset (FKA) Zlien: https://www.levelset.com/ (payments / lien management)<br/>
 Lien Prevention: https://www.lienprevention.com/ (lien management)<br/>
 BuildPay: https://gobuildpay.com/<br/>
 
@@ -341,3 +341,5 @@ Concrete VC: https://www.concretevc.com/<br/>
 Borealis Ventures: http://www.borealisventures.com/<br/>
 Caterpillar Ventures: https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html<br/>
 Tiger Global Management<br/>
+Altos Ventures<br/>
+S3 Ventures<br/>
