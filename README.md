@@ -164,6 +164,7 @@ TestFit: https://testfit.io/ (Project Planning)<br/>
 
 ## 360 Photos / Laser Scanning
 HoloBuilder: https://www.holobuilder.com/<br/>
+Veerum: https://www.veerum.com/<br/>
 Matterport: https://matterport.com/ (360 photos)<br/>
 GeoCV: https://geocv.com/ (360 photos)<br/>
 NCTech Imaging: https://www.nctechimaging.com/ (360 photos)<br/>
