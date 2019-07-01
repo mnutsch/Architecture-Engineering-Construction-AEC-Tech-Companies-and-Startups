@@ -320,11 +320,11 @@ BIMIreland: http://www.bimireland.ie/<br/>
 Construction Junkie: https://www.constructionjunkie.com/<br/>
 
 ## Venture Capital
-Blackhorn Venture Capital: https://blackhornvc.com<br/>
 Autodesk Forge Fund: https://forge.autodesk.com/fund<br/>
 Ferguson Ventures: http://fergusonventures.com/ (VC Funding)<br/>
 Cemex Ventures: https://www.cemexventures.com/<br/>
 Brick & Mortar Ventures: http://brickmortar.vc/ (VC Funding)<br/>
+Blackhorn Ventures: https://blackhornvc.com<br/>
 Softbank: http://www.softbank.jp/ (VC Funding)<br/>
 FundersClub: https://fundersclub.com/ (VC Funding)<br/>
 Y Combinator: http://www.ycombinator.com/ (VC Funding)<br/>
@@ -338,8 +338,8 @@ O’Reilly AlphaTech Ventures: http://oatv.com/ (VC Funding)<br/>
 Right Side Capital Management: http://rightsidecapital.com/ (VC Funding)<br/>
 True Ventures: https://trueventures.com/ (VC Funding)<br/>
 Concrete VC: https://www.concretevc.com/<br/>
-Borealis Ventures: http://www.borealisventures.com/<br/>
 Caterpillar Ventures: https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html<br/>
+Borealis Ventures: http://www.borealisventures.com/<br/>
 Tiger Global Management<br/>
 Altos Ventures<br/>
 S3 Ventures<br/>
