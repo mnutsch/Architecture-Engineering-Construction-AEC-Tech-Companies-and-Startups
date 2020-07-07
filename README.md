@@ -204,6 +204,8 @@ ToolHound<br/>
 Plexxis<br/>
 EZOfficeInventory<br/>
 Trimble Alltrack<br/>
+IGEO IOT: https://velociti.cl/?service=igeo-smart-facility-fanagement <br/>
+
 
 ## Wearables
 WorkerSense: http://www.workersense.com/<br/>
@@ -263,12 +265,13 @@ ExakTime: https://www.exaktime.com/<br/>
 BusyBusy: https://busybusy.com/<br/>
 Foundation (Mobile Timecard): https://www.foundationsoft.com/mobile-timecard-app/<br>
 
-## Logistics / Inventory / Supply Chain Mgmt
+## Logistics / Inventory / Supply Chain Mgmt / Facility Management
 Voyage Control: http://voyagecontrol.com/ (logistics)<br/>
 Katerra: https://katerra.com/<br/>
 Hyphen Solutions: https://www.hyphensolutions.com/info/<br/>
 Viloc: https://www.viloc.eu/<br/>
 SmartEquip: http://www.smartequip.com/<br/>
+IGEO BIM: https://velociti.cl/?service=igeo-smart-facility-fanagement <br/>
 
 ## Software Reseller
 Novedge: https://novedge.com/ (software reseller)<br/>
